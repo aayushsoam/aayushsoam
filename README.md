@@ -14,7 +14,6 @@ I'm **Aayush Soam**, a B.Tech CSE Student (2026)
 
 ---
 
-## 📚 Recent Learning Projects
 | Repository                                                                                | Link                                                                                                            | Description                                        |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | [Orion AI](https://github.com/aayushsoam)                                                 | [Live](https://orioni.netlify.app/)                                                                          | Gemini-like AI Assistant (YouTube fetcher, images, multi-model AI) |
@@ -22,6 +21,7 @@ I'm **Aayush Soam**, a B.Tech CSE Student (2026)
 | [Greenhouse Gas Prediction](https://github.com/aayushsoam/aayush-soam-internship)                                | [Download](https://github.com/aayushsoam/aayush-soam-internship)                              | Predicts emissions using regression models |
 | [Prompthub](https://github.com/aayushsoam/prompt-hub)                                              | [Live](https://prompthubs.netlify.app/)                                                                                                       | Prompts resources in one place |
 | [Portfolio](https://github.com/aayushsoam/portfolio)                                        | [Live](https://aayushsoam.netlify.app/)                                                                                                       | My Profile Details |
+| [Python Runner](https://github.com/aayushsoam/py_runner)                                | [Live](https://pyweb.netlify.app/)                                                                                                       | Run Python code online in-browser |
 
 ---
 

@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/5acb5424-8a32-4ee5-91c5-31e5df7424f6)
+![banner](https://img.artiversehub.ai/online/2025/8/20/8aa5841a-0f49-4397-b6c5-c9ddb79d7794_4718280.jpeg)
 
 ## Hi There! 👨‍💻
 I'm **Aayush Soam**, a B.Tech CSE Student (2026)  
@@ -15,14 +15,13 @@ I'm **Aayush Soam**, a B.Tech CSE Student (2026)
 ---
 
 ## 📚 Recent Learning Projects
-| Repository                                                                                | Link                                                                                                            | Description                                        | Awards |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ |
-| [Orion AI](https://github.com/aayushsoam)                                                 | [Website](https://orioni.netlify.app/)                                                                          | Gemini-like AI Assistant (YouTube fetcher, images, multi-model AI) |   |
-| [AI Smart Safety System](https://github.com/aayushsoam)                                   | [Demo](#)                                                                                                       | Women safety system with **WhatsApp Alerts + Maps** |   |
-| [Greenhouse Gas Prediction](https://github.com/aayushsoam)                                | [Demo](#)                                                                                                       | Predicts emissions using regression models         |   |
-| [AI Web Search Engine](https://github.com/aayushsoam)                                     | [Demo](#)                                                                                                       | Google-like search engine with AI task execution   |   |
-| [Loveable AI](https://github.com/aayushsoam)                                              | [Demo](#)                                                                                                       | No-code AI Website Builder (V0.dev alternative)    |   |
-| [Local NotebookLM](https://github.com/aayushsoam)                                         | [Demo](#)                                                                                                       | PDF Q&A app using Streamlit, mT5 & Sentence Transformers |   |
+| Repository                                                                                | Link                                                                                                            | Description                                        |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [Orion AI](https://github.com/aayushsoam)                                                 | [Live](https://orioni.netlify.app/)                                                                          | Gemini-like AI Assistant (YouTube fetcher, images, multi-model AI) |
+| [Multi-model chat ai](https://github.com/aayushsoam)                                      | [Live](https://rb.gy/vc63ke)                                                                                           | Google-like search engine with AI task execution           |
+| [Greenhouse Gas Prediction](https://github.com/aayushsoam/aayush-soam-internship)                                | [Download](https://github.com/aayushsoam/aayush-soam-internship)                              | Predicts emissions using regression models |
+| [Prompthub](https://github.com/aayushsoam/prompt-hub)                                              | [Live](https://prompthubs.netlify.app/)                                                                                                       | Prompts resources in one place |
+| [Portfolio](https://github.com/aayushsoam/portfolio)                                        | [Live](https://aayushsoam.netlify.app/)                                                                                                       | My Profile Details |
 
 ---
 
@@ -33,7 +32,15 @@ I'm **Aayush Soam**, a B.Tech CSE Student (2026)
 | **Open Source Work**   | GitHub Projects             | AI / Full-Stack Development   | 2023 — now        |
 
 ---
+## Achievements
 
+- Participated in **GDG Hackathon 2025**
+- Completed 
+
+<img src="https://media.licdn.com/dms/image/v2/D4E22AQEYzcP5rwnICw/feedshare-shrink_800/B4EZY851PjGYAk-/0/1744778518847?e=2147483647&v=beta&t=wzNfYucCl5evZ_mJ4brLdox8Tq8ueQEo3H8LCe9-6Eg" alt="GDG Logo" width="250" height="250"/>
+
+
+---
 ## 🎓 Education
 - **B.Tech in Computer Science & Engineering** @ Dr. K.N. Modi Institute of Engineering & Technology (2022 - 2026)  
 - Certified in **Microsoft Azure, Google Cloud Skills Boost, Power BI**  
@@ -45,27 +52,25 @@ I'm **Aayush Soam**, a B.Tech CSE Student (2026)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![](https://img.shields.io/badge/Django-47A248?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/VsCode-0089D6?style=for-the-badge&logo=microsoft-vscode&logoColor=white)
 
 ---
 
 ## 📫 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushsoam)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-soam-%E2%9C%A6%EF%B8%8E-3372502a5/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aayushsoam.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushsoam) 
 
 ---
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/aayushsoam/count.svg)
+![Visitor Count](https://img.shields.io/badge/Visitors-1k%2B-blue?style=for-the-badge)
+
 
 ---
 ⭐️ From [aayushsoam](https://github.com/aayushsoam)

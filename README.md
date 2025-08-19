@@ -13,15 +13,16 @@ I'm **Aayush Soam**, a B.Tech CSE Student (2026)
 [![Aayush's GitHub Stats](https://github-readme-stats-wheat-phi.vercel.app/api?username=aayushsoam&show_icons=true&theme=vue)](https://github.com/aayushsoam)
 
 ---
-
+## Projects 🌐
 | Repository                                                                                | Link                                                                                                            | Description                                        |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| [Orion AI](https://github.com/aayushsoam)                                                 | [Live](https://orioni.netlify.app/)                                                                          | Gemini-like AI Assistant (YouTube fetcher, images, multi-model AI) |
-| [Multi-model chat ai](https://github.com/aayushsoam)                                      | [Live](https://rb.gy/vc63ke)                                                                                           | Google-like search engine with AI task execution           |
-| [Greenhouse Gas Prediction](https://github.com/aayushsoam/aayush-soam-internship)                                | [Download](https://github.com/aayushsoam/aayush-soam-internship)                              | Predicts emissions using regression models |
+| [Multi-model chat ai](https://github.com/aayushsoam/v0-untitled-project)                                      | [Live](https://rb.gy/vc63ke)                                                                                           | Google-like search engine with AI task execution |
+| [Python Runner](https://github.com/aayushsoam/py_runner)                                | [Live](https://pyweb.netlify.app/)                                                                                                       | Run Python code online in-browser |
+| [Orion AI](https://github.com/aayushsoam/orion-ai)                                                 | [Live](https://orioni.netlify.app/)                                                                          | Gemini-like AI Assistant (YouTube fetcher, images, multi-model AI) |
 | [Prompthub](https://github.com/aayushsoam/prompt-hub)                                              | [Live](https://prompthubs.netlify.app/)                                                                                                       | Prompts resources in one place |
 | [Portfolio](https://github.com/aayushsoam/portfolio)                                        | [Live](https://aayushsoam.netlify.app/)                                                                                                       | My Profile Details |
-| [Python Runner](https://github.com/aayushsoam/py_runner)                                | [Live](https://pyweb.netlify.app/)                                                                                                       | Run Python code online in-browser |
+| [Greenhouse Gas Prediction](https://github.com/aayushsoam/aayush-soam-internship)                                | [Download](https://github.com/aayushsoam/aayush-soam-internship)                              | Predicts emissions using regression models |
+
 
 ---
 
